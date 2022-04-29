@@ -14,6 +14,7 @@
             Login = login;
             Password = password;
             Name = name;
+
         }
     }
 }
